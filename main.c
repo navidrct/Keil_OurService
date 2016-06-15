@@ -918,7 +918,7 @@ int main(void)
 		
     for (;;)
     {
-			
+				//now im using github
 				//ble_bas_battery_level_update(&m_bas, navid);
 				//our_termperature_characteristic_update(&m_our_service,ali);
         power_manage();
